@@ -13,7 +13,7 @@ The goal of this analysis is to analyze Amazon reviews written by members of the
 
 ## Results
 
-Vine reviews are paid and non-Vine reviews are non-paid.
+Vine reviews are paid and non-Vine reviews are unpaid.
 ![Results of Paid vs Unpaid](/screenshots/Results%20of%20paid%20vs%20unpaid.PNG)
 
 ### Summary of Results
